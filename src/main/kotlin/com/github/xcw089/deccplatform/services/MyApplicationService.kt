@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.xcw089.deccplatform.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.xcw089.deccplatform.MyBundle
 
 class MyApplicationService {
 
